@@ -1,6 +1,6 @@
 # AirBnB clone
 
-## The console
+## * The console
 
 ### Description
 
@@ -55,3 +55,6 @@ EOF  help  quit
 (hbnb) 
 $
 ```
+
+## * AirBnB clone - Web static
+**HTML CSS Front-end**
